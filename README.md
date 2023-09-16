@@ -11,18 +11,18 @@ The deployed version is available [here](https://agriculturals-dashboard-e2fszwv
 <h4>Overview</h4>
 <p>This application is dedicated to in-depth analysis of the agricultural markets, with a primary focus on providing valuable insights for long-term swing trading strategies. It combines a blend of well-established indicators published by the Commodity Futures Trading Commission and the underlying activities of major players in the sector ( producers, commercials, large traders). Information available for: </p>
 <ul>
-               <li></li>'WHEAT-SRW - CHICAGO BOARD OF TRADE', </ul>
-                   <li>'WHEAT -SRW CONSECUTIVE CSO - CHICAGO BOARD OF TRADE',</ul>
-                   <li>'WHEAT-HRW - CHICAGO BOARD OF TRADE',</ul>
-                      <li> 'WHEAT-HRSpring - MINNEAPOLIS GRAIN EXCHANGE',</ul>
-                 <li>  'CORN - CHICAGO BOARD OF TRADE', </ul>
-                  <li> 'OATS - CHICAGO BOARD OF TRADE',</ul>
-                   <li>'SOYBEANS - CHICAGO BOARD OF TRADE',</ul>
-                   <li>'MINI SOYBEANS - CHICAGO BOARD OF TRADE',</ul>
-                   <li>'SOYBEAN MEAL - CHICAGO BOARD OF TRADE',</ul>
-                   <li>'COTTON NO. 2 - ICE FUTURES U.S.',</ul>
-                   <li>'SUGAR NO. 11 - ICE FUTURES U.S.', </ul>
-                  <li> 'COFFEE C - ICE FUTURES U.S.',</ul>
+               <li>WHEAT-SRW - CHICAGO BOARD OF TRADE</li>
+                   <li>WHEAT -SRW CONSECUTIVE CSO - CHICAGO BOARD OF TRADE</li>
+                   <li>WHEAT-HRW - CHICAGO BOARD OF TRADE</li>
+                    <li> WHEAT-HRSpring - MINNEAPOLIS GRAIN EXCHANGE</li>
+                 <li>CORN - CHICAGO BOARD OF TRADE</li>
+                  <li>OATS - CHICAGO BOARD OF TRADE</li>
+                   <li>SOYBEANS - CHICAGO BOARD OF TRADE</li>
+                   <li>MINI SOYBEANS - CHICAGO BOARD OF TRADE</li>
+                   <li>SOYBEAN MEAL - CHICAGO BOARD OF TRADE</li>
+                   <li>COTTON NO. 2 - ICE FUTURES U.S.</li>
+                   <li>SUGAR NO. 11 - ICE FUTURES U.S.'</li>
+                  <li>COFFEE C - ICE FUTURES U.S.'</li>
   
 </ul>
 
