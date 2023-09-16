@@ -9,7 +9,22 @@ The deployed version is available [here](https://agriculturals-dashboard-e2fszwv
 **Commitment of Traders** reports are a set of data that are released by the Commodity Futures Trading Commission (CFTC) on a weekly basis. The reports provide a breakdown of the open positions held by different groups of traders in a variety of futures markets, including commodities, currencies, and Treasury bonds. The groups of traders include commercial hedgers, non-commercial speculators, and small traders. Commercial hedgers are typically large companies or institutions that use futures contracts to hedge against price fluctuations in the underlying physical commodity or financial instrument. Non-commercial speculators are traders who are not using futures contracts for hedging, but rather for speculative purposes. COT reports provide a snapshot of the market sentiment and can be used to help traders identify potential trading opportunities and market trends.
 
 <h4>Overview</h4>
-<p>This application is dedicated to in-depth analysis of the agricultural markets, with a primary focus on providing valuable insights for long-term swing trading strategies. It combines a blend of well-established indicators published by the Commodity Futures Trading Commission and the underlying activities of major financial institutions ( producers, commercials, large traders)</p>
+<p>This application is dedicated to in-depth analysis of the agricultural markets, with a primary focus on providing valuable insights for long-term swing trading strategies. It combines a blend of well-established indicators published by the Commodity Futures Trading Commission and the underlying activities of major players in the sector ( producers, commercials, large traders). Information available for: </p>
+<ul>
+               <li></li>'WHEAT-SRW - CHICAGO BOARD OF TRADE', </ul>
+                   <li>'WHEAT -SRW CONSECUTIVE CSO - CHICAGO BOARD OF TRADE',</ul>
+                   <li>'WHEAT-HRW - CHICAGO BOARD OF TRADE',</ul>
+                      <li> 'WHEAT-HRSpring - MINNEAPOLIS GRAIN EXCHANGE',</ul>
+                 <li>  'CORN - CHICAGO BOARD OF TRADE', </ul>
+                  <li> 'OATS - CHICAGO BOARD OF TRADE',</ul>
+                   <li>'SOYBEANS - CHICAGO BOARD OF TRADE',</ul>
+                   <li>'MINI SOYBEANS - CHICAGO BOARD OF TRADE',</ul>
+                   <li>'SOYBEAN MEAL - CHICAGO BOARD OF TRADE',</ul>
+                   <li>'COTTON NO. 2 - ICE FUTURES U.S.',</ul>
+                   <li>'SUGAR NO. 11 - ICE FUTURES U.S.', </ul>
+                  <li> 'COFFEE C - ICE FUTURES U.S.',</ul>
+  
+</ul>
 
 <h4>Usage Considerations</h4>
 <p>Long-Term Analysis: It's essential to note that this app is specifically tailored for long-term analysis, catering to the needs of swing traders who typically hold positions for extended periods.</p>
